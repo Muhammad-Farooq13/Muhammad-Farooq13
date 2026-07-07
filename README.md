@@ -4,7 +4,6 @@
 <img src="assets/profile.png" width="180"/>
 </p>
 
-# 👋 Muhammad Farooq
 
 **Data Scientist • Data Engineer • Machine Learning Engineer • Analytics Engineer**
 
