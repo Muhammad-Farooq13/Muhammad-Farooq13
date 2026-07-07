@@ -1,9 +1,5 @@
 # Muhammad Farooq
 
-<p align="center">
-<img src="assets/profile.png" width="180"/>
-</p>
-
 
 **Data Scientist • Data Engineer • Machine Learning Engineer • Analytics Engineer**
 
